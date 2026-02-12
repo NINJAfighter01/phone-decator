@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+.venv11/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# YOLOv8 cache and runs
+runs/
+.yolo/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models and weights (optional - uncomment if needed)
+# *.pt
+
+# Logs
+*.log
